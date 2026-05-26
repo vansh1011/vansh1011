@@ -25,7 +25,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🎥 [Video Calling App](https://b-devicall.onrender.com/) | Real-time video calling between users | MERN, WebRTC, Socket.io |
+| 🎥 [Video Calling App](https://vcall-drab.vercel.app/) | Real-time video calling between users | MERN, WebRTC, Socket.io |
 | 🏥 [Medical Help App](https://b-devicall.onrender.com/) | Connects patients with medical assistance | MERN Stack |
 
 
