@@ -42,6 +42,10 @@
 
 ---
 
+## 🌐 Portfolio
+
+🔗 [Visit My Portfolio](https://portfolio-liart-zeta-zk7935a6eo.vercel.app/)
+
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vansh-renu-parmar-5b4b49323/)
