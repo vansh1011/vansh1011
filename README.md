@@ -32,12 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://streak-stats.demolab.com?user=vansh1011&theme=tokyonight&hide_border=true" />
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=vansh1011&theme=tokyonight&no-frame=true" />
----
 
 ## 🌐 Portfolio
 
