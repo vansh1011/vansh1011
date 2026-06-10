@@ -5,9 +5,9 @@
 
 <br/>
 
-## 🚀 About Me
+##  About Me
 
- - 💻 Building full-stack apps with **MERN & PERN Stack**
+- 💻 Building full-stack apps with **MERN & PERN Stack**
 - 📈 Actively looking for **internship & full-time opportunities**
 - 🧠 Grinding **DSA** in C++ & competitive programming daily
 - 🌱 Currently learning: **SQL + React (Advanced)**
@@ -27,12 +27,9 @@
 |--------|-------------|-------|
 | 🎥 [Video Calling App](https://vcall-drab.vercel.app/) | Real-time video calling between users | PERN, WebRTC, Socket.io |
 | 🏥 [Medical Help App](https://medical-help-chi.vercel.app/) | Connects patients with medical assistance | MERN Stack |
-
-
+| 📱 [Social Media Platform](https://social-media-platform-eta.vercel.app) | A social media platform where users can share images and text posts, featuring infinite scrolling for seamless content discovery and secure session-based authentication. | MERN Stack |
 
 ---
-
-
 
 ## 🌐 Portfolio
 
